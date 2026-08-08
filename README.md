@@ -105,10 +105,10 @@ student-social-media-mental-health-analytics/
 ├── README.md
 │
 ├── PowerBI/
-│   └── Student_Social_Media_Mental_Health_Analytics.pbix
+│   └── Social media and mental health Analytics.pbix
 │
 ├── Dataset/
-│   └──student_social_media_mental_health.csv
+│   └──Student Social Media And Mental Health Impact.csv
 │
 ├── Screenshots/
 │   └── dashboard Overview.png
