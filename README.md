@@ -1,5 +1,6 @@
 Student Social Media & Mental Health Analytics
-          An interactive Power BI dashboard designed to analyze student social media usage, lifestyle patterns, academic factors, stress levels, and mental health indicators.
+          
+An interactive Power BI dashboard designed to analyze student social media usage, lifestyle patterns, academic factors, stress levels, and mental health indicators.
 
 
 Project Overview
@@ -33,10 +34,12 @@ Tools & Technologies
 ---
 
  Dashboard Overview
-    The dashboard provides an overview of student social media behavior and related lifestyle and mental health indicators.
+    
+The dashboard provides an overview of student social media behavior and related lifestyle and mental health indicators.
 
 
 Key Performance Indicators
+
 The dashboard includes:
 
 - Average Study Hours
@@ -47,6 +50,7 @@ The dashboard includes:
 - Average Mental Health Score
 
 Visualizations
+
 The dashboard includes:
 
 - Most Used Social Media Platforms
@@ -59,6 +63,7 @@ The dashboard includes:
 - Social Media Usage vs Mental Health
 
 Interactive Filters
+
 Users can filter the dashboard using:
 
 - Social Media Platform
@@ -68,7 +73,8 @@ Users can filter the dashboard using:
 - Gender
 
 Key Analytical Questions
-    This dashboard is designed to answer questions such as:
+    
+This dashboard is designed to answer questions such as:
 
 1. Which social media platforms are most commonly used by students?
 2. How many hours do students spend on social media each day?
@@ -90,15 +96,8 @@ The dashboard can be used to identify patterns such as:
 
 > Specific numerical insights are based on the dataset and dashboard filters and should be interpreted in the context of the available sample.
 
----
 
-## 📷 Dashboard Preview
-
-![Student Social Media & Mental Health Analytics](Screenshots/dashboard-overview.png)
-
----
-
-## 📁 Repository Structure
+ Repository Structure
 
 ```text
 student-social-media-mental-health-analytics/
@@ -109,10 +108,7 @@ student-social-media-mental-health-analytics/
 │   └── Student_Social_Media_Mental_Health_Analytics.pbix
 │
 ├── Dataset/
-│   └── student_social_media_mental_health.xlsx
+│   └──student_social_media_mental_health.csv
 │
 ├── Screenshots/
-│   └── dashboard-overview.png
-│
-└── Documentation/
-    └── Project_Report.pdf
+│   └── dashboard ss.png
