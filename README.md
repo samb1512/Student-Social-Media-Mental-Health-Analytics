@@ -111,4 +111,4 @@ student-social-media-mental-health-analytics/
 │   └──student_social_media_mental_health.csv
 │
 ├── Screenshots/
-│   └── dashboard ss.png
+│   └── dashboard Overview.png
